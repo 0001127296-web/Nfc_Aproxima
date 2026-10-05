@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aprox-nfc.vercel.app/sitemap.xml
